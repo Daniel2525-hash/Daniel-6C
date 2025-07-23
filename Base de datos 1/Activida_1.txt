@@ -1,0 +1,28 @@
+Actividad 1 de Base de datos 
+
+1-¿Que es SQL? ¿Para que se utiliza?
+2-¿Para que sirve las sentencias SELECT? Escriba su estructura basica.
+3-¿Para que sirve la clausula FROM?
+4-¿Para que sirve la clausula where?
+5-Mencione  y describa brevemente al menos 4 sentencias sql
+
+1- SQL es un lenguaje de programacion que sirve para modificar datos en 
+   justamente una base de datos
+
+2-La sentencia SELECT sirve para seleccionar un dato de toda la base
+  << SELECT nombre_cualquiera,City FROM loquesea; >>
+
+3-La sentencia FROM sirve para seleccionar la tabla o la parte de toda la base de datos
+    << SELECT nombre_cualquiera,City FROM loquesea; >>
+
+4-La sentencia where sirve como if, ya que al poner ciertas condiciones ya sea que sea una
+  en concreto, o que compartan algunas similitudes
+  << SELECT*FROM loquesea; >>
+  << where cualquiera; >>
+
+5-Esta la sentencia ORDER BY la cual ordena la tabla de forma ascendente o descendente,
+  la sentencia AND que funciona con el WHERE ya que esta pone otra condicion para filtrar para que sea x y e cosa,
+  la sentencia OR que tambien funciona con el WHERE pero esta ves para que sea x o y cosa, y por ultimo
+  esta la sentencia  NOT que lo que hace es que no va dejar pasar las cosas que cumplan con ciertas condiciones
+
+
